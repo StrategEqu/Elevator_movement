@@ -1,5 +1,5 @@
-//Реализация движения лифта
-//Инициализация
-//Контроль перевеса
-//Контроль этажей
-//git checkout develop
+public class Main {
+    public static void main(String[] args) {
+        System.out.printf("Hello World!");
+    }
+}
